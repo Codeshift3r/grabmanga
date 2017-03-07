@@ -25,6 +25,7 @@ which character you need to replace for the spaces.
 
 ## Usage
 
+```
 H:\CLI\grabmanga>grabmanga --help
 ┌────────────────────────┐
 │ Grabmanga v1.0b │ 2013 │
@@ -113,3 +114,5 @@ H:\CLI\grabmanga>grabmanga goodmanga bleach 500 501 30
 
 
 H:\CLI\grabmanga>
+
+```
