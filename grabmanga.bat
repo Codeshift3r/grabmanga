@@ -1,6 +1,6 @@
 :: Grabmanga - Bulk manga downloader::
 :: Last Updated 13/3/2014 ::
-:: seriousubs@gmail.com/amsharsolaiman@gmail.com ::
+:: seriousubs`at`gmail`d0t`com/amsharsolaiman`at`gmail`d0t`com ::
 @echo off
 title Grabmanga v1.0b
 Setlocal EnableDelayedExpansion
@@ -16,9 +16,9 @@ echo Type "grabmanga --help" to invoke the help menu.
 echo.
 goto :Eof
 :helptag
-echo ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-echo ³ Grabmanga v1.0b ³ 2013 ³
-echo ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+echo ÃšÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â¿
+echo Â³ Grabmanga v1.0b Â³ 2013 Â³
+echo Ã€Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã™
 echo.
 echo [] Usage:
 echo grabmanga [host] [manga] [from chapter] [to chapter] [limit]
